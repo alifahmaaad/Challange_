@@ -31,7 +31,7 @@ Langkah-langkah untuk menginstal dan menjalankan proyek ini:
 1. Clone repositori dari GitHub:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/alifahmaaad/Challange_.git
    ```
 
 2. Masuk ke direktori proyek:
