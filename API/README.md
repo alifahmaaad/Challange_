@@ -23,7 +23,6 @@ Sebelum Anda memulai, pastikan Anda telah memenuhi persyaratan berikut:
 
 - Node.js dan npm telah terinstal di komputer Anda.
 - Text editor atau IDE yang Anda sukai telah terinstal (misalnya, Visual Studio Code).
-- Pengetahuan dasar tentang Node.js, Express.js, JWT, dan bcrypt.
 
 ## 3. Instalasi <a name="instalasi"></a>
 
